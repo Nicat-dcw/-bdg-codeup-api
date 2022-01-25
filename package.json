@@ -1,0 +1,29 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "@bdg/codeup-api",
+  "version": "0.0.1",
+  "description": "API Package for CodeUP.bakudevsgroup.com ",
+  "main": "nicat.js",
+  "author": "Nicatdcw", 
+  "scripts": {
+    "start": "node nicat.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^4.0.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "project",
+    "express"
+  ]
+} 
